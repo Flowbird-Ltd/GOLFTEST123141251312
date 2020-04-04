@@ -1,0 +1,4 @@
+[submodule "GOLFTEST123141251312/eq_vas_po_receipt_status_in_so_04_04_2020.zip"]
+	path = GOLFTEST123141251312/eq_vas_po_receipt_status_in_so_04_04_2020.zip
+	url = git@github.com:Flowbird-Ltd/GOLFTEST123141251312.git
+	branch = master
